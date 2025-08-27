@@ -2,7 +2,29 @@
 
 A modern, minimalistic, and playful resort landing page built with React and TailwindCSS. This project showcases a luxury tropical resort with beautiful imagery, smooth animations, and a professional design perfect for the hospitality industry.
 
-![Resort Hero Section](src/assets/Resort-Images/Screenshot%202025-08-27%20at%2010-17-59%20Paradise%20Resort%20-%20Luxury%20Tropical%20Getaway.png)
+## 🖼️ Resort Images Gallery
+
+The project includes several high-quality resort images showcasing different aspects of the property. Here are all the resort images:
+
+### Image 1 - Complete Resort Overview
+![Complete Resort Landing Page](src/assets/Resort-Images/1.png)
+*Full resort landing page overview showing the complete design and layout*
+
+### Image 2 - Hero and About Sections
+![Hero and About Sections](src/assets/Resort-Images/2.png)
+*Hero section with beach background and about section with resort description*
+
+### Image 3 - Rooms and Amenities
+![Rooms and Amenities](src/assets/Resort-Images/3.png)
+*Rooms showcase and amenities grid layout*
+
+### Image 4 - Gallery and Testimonials
+![Gallery and Testimonials](src/assets/Resort-Images/4.png)
+*Image gallery grid and customer testimonials section*
+
+### Image 5 - Contact and Footer
+![Contact and Footer](src/assets/Resort-Images/5.png)
+*Contact form section and footer with navigation*
 
 ## ✨ Features
 
@@ -27,23 +49,6 @@ A modern, minimalistic, and playful resort landing page built with React and Tai
 - **Hover Effects**: Smooth transitions, scaling, and shadow changes
 - **Smooth Transitions**: 300ms duration for all interactive elements
 - **Scroll-triggered Animations**: Elements animate as they come into view
-
-## 🖼️ Resort Images
-
-The project includes several high-quality resort images showcasing different aspects of the property:
-
-### Hero & Main Sections
-- **Beach Resort Overview** - Main hero background and resort exterior shots
-- **Accommodation Views** - Room interiors and resort facilities
-- **Amenity Showcase** - Pool areas, dining spaces, and recreational facilities
-- **Gallery Collection** - Various resort angles and guest experience moments
-
-### Image Files
-- `Screenshot 2025-08-27 at 10-17-59 Paradise Resort - Luxury Tropical Getaway.png` - Hero section and main resort view
-- `Screenshot 2025-08-27 at 10-17-47 Paradise Resort - Luxury Tropical Getaway.png` - Rooms and amenities showcase
-- `Screenshot 2025-08-27 at 10-17-35 Paradise Resort - Luxury Tropical Getaway.png` - Gallery and visual elements
-- `Screenshot 2025-08-27 at 10-17-25 Paradise Resort - Luxury Tropical Getaway.png` - Contact and footer sections
-- `Screenshot 2025-08-27 at 10-17-08 Paradise Resort - Luxury Tropical Getaway.png` - Complete page overview
 
 ## 🛠️ Technology Stack
 
